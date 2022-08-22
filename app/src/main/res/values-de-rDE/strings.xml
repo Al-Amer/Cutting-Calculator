@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cutting Calculator</string>
+
+    <string name="Matreial_measure">Maßverkörperung</string>
+    <string name="aus_ein">Aus/Ein</string>
+    <string name="Rechnen">Rechnen</string>
+    <string name="b_back">zurück</string>
+    <string name="go_to_start">zum Starten</string>
+    <string name="inside">Innenmaß</string>
+    <string name="outside">Ausmaß</string>
+    <string name="all_inside">Alle Maße innen</string>
+    <string name="all_outside">Alle außen messen</string>
+    <string name="share">Teilen</string>
+</resources>

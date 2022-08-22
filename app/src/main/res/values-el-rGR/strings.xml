@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cutting Calculator</string>
+
+    <string name="Matreial_measure">Υλικό μέτρο</string>
+    <string name="aus_ein">έξω/μέσα</string>
+    <string name="Rechnen">Υπολογίζω</string>
+    <string name="b_back">πεσω</string>
+    <string name="go_to_start">Ξεκινήστε πάλι</string>
+    <string name="inside">μέσα</string>
+    <string name="outside">έκταση</string>
+    <string name="all_inside">Όλα Μετρήστε μέσα</string>
+    <string name="all_outside">Όλα Μετρήστε έξω</string>
+    <string name="share">μερίδιο</string>
+</resources>

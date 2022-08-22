@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cutting Calculator</string>
+
+    <string name="Matreial_measure">Material measure</string>
+    <string name="aus_ein">Out/Ins</string>
+    <string name="Rechnen">Calculate</string>
+    <string name="b_back">Back</string>
+    <string name="go_to_start">To Start</string>
+    <string name="inside">Inside</string>
+    <string name="outside">Outside</string>
+    <string name="all_inside">All Measure inside</string>
+    <string name="all_outside">"All Measure outside "</string>
+    <string name="share">SHARE</string>
+</resources>

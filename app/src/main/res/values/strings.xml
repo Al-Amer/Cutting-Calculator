@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cutting Calculator</string>
+
+    <string name="Matreial_measure">Matreial_measure</string>
+    <string name="aus_ein">Aus/Ein</string>
+    <string name="Rechnen">Rechnen</string>
+    <string name="b_back">Back</string>
+    <string name="go_to_start">Go To Start</string>
+    <string name="inside">inside</string>
+    <string name="outside">outside</string>
+    <string name="all_inside">All inside</string>
+    <string name="all_outside">All outside</string>
+    <string name="share">share</string>
+</resources>
